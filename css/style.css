@@ -20,6 +20,9 @@ a:hover {
   text-align: center;
   margin-top: 30px;
   color: #ccc;
+  position: absolute;
+  bottom: 0;
+  left: 605px;
 }
 .clear {
   clear: both;
@@ -53,7 +56,8 @@ a:hover {
   float: right;
 }
 .logopng {
-  width: 200px;
+  width: 400px;
+  height: 250px;
 }
 .breadcrumb {
   padding: 8px 15px;
