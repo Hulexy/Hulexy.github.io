@@ -22,7 +22,7 @@ a:hover {
   color: #ccc;
   position: absolute;
   bottom: 0;
-  left: 605px;
+  left: 50%;
 }
 .clear {
   clear: both;
